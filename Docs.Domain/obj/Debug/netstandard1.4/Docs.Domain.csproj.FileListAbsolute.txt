@@ -1,0 +1,7 @@
+D:\Sincronizado\Acadêmico\FURB\Ciência da Computação\Fase 5\Sistemas Distribuidos\Trabalhos\Trabalho 02\Docs\Docs.Domain\bin\Debug\netstandard1.4\Docs.Domain.deps.json
+D:\Sincronizado\Acadêmico\FURB\Ciência da Computação\Fase 5\Sistemas Distribuidos\Trabalhos\Trabalho 02\Docs\Docs.Domain\bin\Debug\netstandard1.4\Docs.Domain.dll
+D:\Sincronizado\Acadêmico\FURB\Ciência da Computação\Fase 5\Sistemas Distribuidos\Trabalhos\Trabalho 02\Docs\Docs.Domain\bin\Debug\netstandard1.4\Docs.Domain.pdb
+D:\Sincronizado\Acadêmico\FURB\Ciência da Computação\Fase 5\Sistemas Distribuidos\Trabalhos\Trabalho 02\Docs\Docs.Domain\obj\Debug\netstandard1.4\Docs.Domain.csprojResolveAssemblyReference.cache
+D:\Sincronizado\Acadêmico\FURB\Ciência da Computação\Fase 5\Sistemas Distribuidos\Trabalhos\Trabalho 02\Docs\Docs.Domain\obj\Debug\netstandard1.4\Docs.Domain.AssemblyInfo.cs
+D:\Sincronizado\Acadêmico\FURB\Ciência da Computação\Fase 5\Sistemas Distribuidos\Trabalhos\Trabalho 02\Docs\Docs.Domain\obj\Debug\netstandard1.4\Docs.Domain.dll
+D:\Sincronizado\Acadêmico\FURB\Ciência da Computação\Fase 5\Sistemas Distribuidos\Trabalhos\Trabalho 02\Docs\Docs.Domain\obj\Debug\netstandard1.4\Docs.Domain.pdb
